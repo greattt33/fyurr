@@ -1,0 +1,14 @@
+{
+  "name": "fyurr",
+  "version": "1.0.0",
+  "description": "\"fyurr is a musical platform\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"adebayo mojeed\" -email \"adebayodayo33@gmail.com\"",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.4.1"
+  }
+}
